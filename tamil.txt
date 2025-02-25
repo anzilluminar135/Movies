@@ -5,3 +5,7 @@ name : Amaran
 director : Rajkumar
 
 release year : 2024
+
+2.
+
+name : 'iru mughan'
